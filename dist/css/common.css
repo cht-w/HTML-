@@ -1,0 +1,13 @@
+/*公共样式*/
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+/*版心*/
+.content {
+	width: 1200px;
+    height: 100%;
+	margin: 0 auto;
+}
